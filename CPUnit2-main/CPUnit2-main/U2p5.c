@@ -1,0 +1,15 @@
+//#include <stdio.h>
+//// a program on arrys for linear search
+//int main() {
+//	int i = 0, a ,b;
+//	int arr[] = { 1,2,3,4,5 };
+//	int arr_size = sizeof(arr) / sizeof(arr[0]);
+//	a = sizeof(arr);
+//	b = sizeof(arr[0]);
+//
+//	printf("%d\n", a);
+//	printf("%d\n", b);
+//	printf("my array size is %d", arr_size);
+//	return 0;
+//
+//}
